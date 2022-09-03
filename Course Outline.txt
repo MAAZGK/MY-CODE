@@ -1,0 +1,26 @@
+Course Outline:
+
+Orientation Topic: Version Control (GitHub, GitLab, BitBucket)
+
+Module 1:
+
+1) HTML
+2) CSS
+3) Javascript
+
+Module 2:
+
+4) Ecma Script
+5) Google Firebase
+6) React
+
+Module 3:
+
+7) React Redux (Redux Middlewares)
+8) React Native (Expo + CLI)
+
+Module 4:
+
+9) Node JS
+10) MongoDB
+11) MySQL 
