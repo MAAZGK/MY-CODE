@@ -3,3 +3,5 @@ git add . //add all my files
 git add ReadMe.md // add only ReadMe.md
 
 git add index.js // add only index.js
+
+git clone repository_url //for cloning repo
